@@ -19,14 +19,14 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
     → try "50% 50%" for dead center, or "50% 20%" to crop even higher
   - border: adds a solid dark border around the photo
   ============================================================ -->
+
 <p style="text-align: center;">
-  <img src="headshot.jpg"
-       width="400px"
-       height="400px"
-       style="object-fit: cover;
+
+<img src="headshot.jpg" width="400px" height="400px" style="object-fit: cover;
               object-position: 50% 32%;
               border: 3px solid #333;
               margin-bottom: 30px;"/>
+
 </p>
 
 <!-- ============================================================
@@ -72,5 +72,5 @@ To view more information about my projects, please visit the [Projects](proj.qmd
 
 **Contact Information:**
 
-- Email: [✏️ youremail@gmail.com](mailto:youremail@gmail.com)
-- LinkedIn: [✏️ Your Name](✏️ https://www.linkedin.com/in/yourprofile)
+-   Email: [✏️ youremail\@gmail.com](mailto:youremail@gmail.com)
+-   LinkedIn: [✏️ Your Name](✏️%20https://www.linkedin.com/in/yourprofile)
