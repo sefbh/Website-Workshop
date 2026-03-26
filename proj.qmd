@@ -89,13 +89,13 @@ This was a group sports analytics project where we built models to predict three
 
 This project focused on classifying heartbeat signals from the MIT-BIH arrhythmia dataset using sequence models. We worked with ECG data where each heartbeat was represented as a sequence of values, and the goal was to predict the type of heartbeat as accurately as possible. To do this, we trained and compared models like RNNs, LSTMs, and GRUs in PyTorch, and evaluated them using measures such as accuracy, F1 score, AUC, and confusion matrices. The project helped show how sequence models can be used on real medical data, and it gave us practice with training deep learning models, tuning them, and interpreting how well they performed..
 
-<iframe src="example_report3.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="Seth Hall - Heartbeat Classification using Sequence Models.html" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
 
-<p>Your browser can't preview PDFs. <a href="✏️ example_report3.pdf">Click here to download instead.</a></p>
+<p>Your browser can't preview PDFs. <a href="Seth Hall - Heartbeat Classification using Sequence Models.html">Click here to download instead.</a></p>
 
 </iframe>
 
-[⬇ Download PDF](✏️%20example_report3.pdf)
+[⬇ Download PDF](✏️%20Seth Hall - Heartbeat Classification using Sequence Models.html)
 
 ------------------------------------------------------------------------
 
