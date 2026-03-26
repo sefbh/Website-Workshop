@@ -14,7 +14,7 @@ title: "Projects"   # ✏️ Shown in the browser tab and page header
   Example: "Here's a selection of projects from my coursework and personal work."
 ============================================================ -->
 
-✏️ A brief intro about your projects goes here.
+Here you'll find information about my projects and assignments I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems.
 
 ------------------------------------------------------------------------
 
