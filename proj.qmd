@@ -58,7 +58,7 @@ This project looks at how healthcare algorithms can end up treating people unfai
   ✏️ Same structure as above — fill in your details
 ============================================================ -->
 
-## 
+## Forecasting NBA Regular-Season Outcomes: Spread, Total, and Offensive Rebounds
 
 **Course:** Sports Analytics\
 **Date:** February 2026\
@@ -81,6 +81,29 @@ This was a group sports analytics project where we built models to predict three
   ✏️ Same structure — delete this block entirely if you only have 2 projects
 ============================================================ -->
 
+## Heartbeat Classification with Sequence Models
+
+**Course:** Deep Learning Methods for Biomedical Applications with PyTorch\
+**Date:** February 2026\
+**Tags:** `Python` `Deep Learning` `Sequence Modeling` `Time Series` `Neural Networks` `RNN` `LSTM` `GRU` `Healthcare`
+
+This project focused on classifying heartbeat signals from the MIT-BIH arrhythmia dataset using sequence models. We worked with ECG data where each heartbeat was represented as a sequence of values, and the goal was to predict the type of heartbeat as accurately as possible. To do this, we trained and compared models like RNNs, LSTMs, and GRUs in PyTorch, and evaluated them using measures such as accuracy, F1 score, AUC, and confusion matrices. The project helped show how sequence models can be used on real medical data, and it gave us practice with training deep learning models, tuning them, and interpreting how well they performed..
+
+<iframe src="example_report3.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="✏️ example_report3.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20example_report3.pdf)
+
+------------------------------------------------------------------------
+
+<!-- ============================================================
+  PROJECT 4
+  ✏️ Same structure — delete this block entirely if you only have 2 projects
+============================================================ -->
+
 ## ✏️ Project Title
 
 **Course:** ✏️ BIOL 201 — Cell Biology\
@@ -97,8 +120,51 @@ This was a group sports analytics project where we built models to predict three
 
 [⬇ Download PDF](✏️%20example_report3.pdf)
 
+------------------------------------------------------------------------
+
 <!-- ============================================================
-  ADDING MORE PROJECTS LATER
-  To add a new project, copy everything between two --- dividers
-  and paste it at the bottom. Update all the ✏️ placeholders.
+  PROJECT 5
+  ✏️ Same structure — delete this block entirely if you only have 2 projects
 ============================================================ -->
+
+## ✏️ Project Title
+
+**Course:** ✏️ BIOL 201 — Cell Biology\
+**Date:** ✏️ Fall 2025\
+**Tags:** ✏️ `Research` `Lab Report` `Data Collection`
+
+✏️ Description of your third project goes here.
+
+<iframe src="example_report3.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="✏️ example_report3.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20example_report3.pdf)
+
+------------------------------------------------------------------------
+
+<!-- ============================================================
+  PROJECT 6
+  ✏️ Same structure — delete this block entirely if you only have 2 projects
+============================================================ -->
+
+## ✏️ Project Title
+
+**Course:** ✏️ BIOL 201 — Cell Biology\
+**Date:** ✏️ Fall 2025\
+**Tags:** ✏️ `Research` `Lab Report` `Data Collection`
+
+✏️ Description of your third project goes here.
+
+<iframe src="example_report3.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="✏️ example_report3.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20example_report3.pdf)
+
+------------------------------------------------------------------------
+
