@@ -18,7 +18,7 @@
     "href": "proj.html#project-title",
     "title": "Projects",
     "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ STOR 155 — Introduction to Statistics\nDate: ✏️ Spring 2025\nTags: ✏️ R Statistics ggplot2\n✏️ Description of your second project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report2.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
+    "text": "✏️ Project Title\nCourse: ✏️ BIOL 201 — Cell Biology\nDate: ✏️ Fall 2025\nTags: ✏️ Research Lab Report Data Collection\n✏️ Description of your third project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report3.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   },
   {
     "objectID": "proj.html#project-title-1",
@@ -47,5 +47,12 @@
     "title": "Projects",
     "section": "Bias in Healthcare Algorithms",
     "text": "Bias in Healthcare Algorithms\nIndependent research project\nDate: ✏️ Fall 2024\nTags: ✏ R Data Analysis Visualization Healthcare Public Health Ethics Data Simulation Statistical Analysis Predictive Modeling Policy RStudio \nThis project looks at how healthcare algorithms can end up treating people unfairly, even when they are supposed to help improve care. I focused on a model that used past healthcare spending to predict patient needs, which can be a problem because spending does not always reflect how sick someone actually is. Using R, I built a simulation to recreate the bias in the model and then looked at fairness measures like statistical parity, equalized odds, and disparate impact to see how the model performed. My results showed that Black patients were more likely to be underrated by the system, which could lead to them getting less care than they need. Overall, the project was about showing why accuracy is not the only thing that matters when algorithms are used in healthcare.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
+  },
+  {
+    "objectID": "proj.html#section",
+    "href": "proj.html#section",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: ✏️ STOR 155 — Introduction to Statistics\nDate: ✏️ Spring 2025\nTags: ✏️ R Statistics ggplot2\n✏️ Description of your second project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report2.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   }
 ]
