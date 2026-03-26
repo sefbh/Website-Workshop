@@ -14,7 +14,7 @@ title: "Projects"   # ✏️ Shown in the browser tab and page header
   Example: "Here's a selection of projects from my coursework and personal work."
 ============================================================ -->
 
-Here you'll find information about my projects and assignments I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems.
+Here you'll find information about the projects I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems.
 
 ------------------------------------------------------------------------
 
@@ -24,13 +24,13 @@ Here you'll find information about my projects and assignments I’ve completed 
   Copy this entire block (up to the next ---) to add more projects.
 ============================================================ -->
 
-## ✏️ Project Title
+## Bias in Healthcare Algorithms
 
-**Course:** ✏️ COMP 101 — Introduction to Programming\
+Independent research project\
 **Date:** ✏️ Fall 2024\
-**Tags:** ✏️ `Python` `Data Analysis` `Visualization` <!-- Tags: just type whatever labels apply, wrapped in backticks like above -->
+**Tags:** ✏ `R` `Data Analysis` `Visualization` `Healthcare` `Public Health` `Ethics` `Data Simulation` `Statistical Analysis` `Predictive Modeling` `Policy` `RStudio` <!-- Tags: just type whatever labels apply, wrapped in backticks like above -->
 
-✏️ Write 2–3 sentences describing what this project is about, what problem it solves, and what tools or methods you used. Keep it approachable — imagine explaining it to someone outside your major.
+This project looks at how healthcare algorithms can end up treating people unfairly, even when they are supposed to help improve care. I focused on a model that used past healthcare spending to predict patient needs, which can be a problem because spending does not always reflect how sick someone actually is. Using R, I built a simulation to recreate the bias in the model and then looked at fairness measures like statistical parity, equalized odds, and disparate impact to see how the model performed. My results showed that Black patients were more likely to be underrated by the system, which could lead to them getting less care than they need. Overall, the project was about showing why accuracy is not the only thing that matters when algorithms are used in healthcare.
 
 <!-- PDF PREVIEW
   - Replace "example_report.pdf" with your actual filename
@@ -41,7 +41,7 @@ Here you'll find information about my projects and assignments I’ve completed 
     (uncommon, but good to have)
 -->
 
-<iframe src="example_report.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="Seth Hall - Bias in Healthcare Algorithms.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
 
 <p>Your browser can't preview PDFs. <a href="✏️ example_report.pdf">Click here to download instead.</a></p>
 
@@ -49,7 +49,7 @@ Here you'll find information about my projects and assignments I’ve completed 
 
 <!-- OPTIONAL: direct download link below the preview -->
 
-[⬇ Download PDF](✏️%20example_report.pdf)
+[⬇ Download PDF](✏️%20Seth Hall - Bias in Healthcare Algorithms.pdf)
 
 ------------------------------------------------------------------------
 

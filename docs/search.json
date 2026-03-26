@@ -4,7 +4,7 @@
     "href": "proj.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you’ll find information about my projects and assignments I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems."
+    "text": "Here you’ll find information about the projects I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems."
   },
   {
     "objectID": "aboutme.html",
@@ -18,14 +18,14 @@
     "href": "proj.html#project-title",
     "title": "Projects",
     "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ COMP 101 — Introduction to Programming\nDate: ✏️ Fall 2024\nTags: ✏️ Python Data Analysis Visualization \n✏️ Write 2–3 sentences describing what this project is about, what problem it solves, and what tools or methods you used. Keep it approachable — imagine explaining it to someone outside your major.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
+    "text": "✏️ Project Title\nCourse: ✏️ STOR 155 — Introduction to Statistics\nDate: ✏️ Spring 2025\nTags: ✏️ R Statistics ggplot2\n✏️ Description of your second project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report2.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   },
   {
     "objectID": "proj.html#project-title-1",
     "href": "proj.html#project-title-1",
     "title": "Projects",
     "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ STOR 155 — Introduction to Statistics\nDate: ✏️ Spring 2025\nTags: ✏️ R Statistics ggplot2\n✏️ Description of your second project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report2.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
+    "text": "✏️ Project Title\nCourse: ✏️ BIOL 201 — Cell Biology\nDate: ✏️ Fall 2025\nTags: ✏️ Research Lab Report Data Collection\n✏️ Description of your third project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report3.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   },
   {
     "objectID": "proj.html#project-title-2",
@@ -40,5 +40,12 @@
     "title": "Seth Hall’s Website",
     "section": "",
     "text": "Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.\n\nVisit the About Me tab to learn more about my background and how to get in touch.\nVisit the Projects tab to see examples of my work."
+  },
+  {
+    "objectID": "proj.html#bias-in-healthcare-algorithms",
+    "href": "proj.html#bias-in-healthcare-algorithms",
+    "title": "Projects",
+    "section": "Bias in Healthcare Algorithms",
+    "text": "Bias in Healthcare Algorithms\nIndependent research project\nDate: ✏️ Fall 2024\nTags: ✏ R Data Analysis Visualization Healthcare Public Health Ethics Data Simulation Statistical Analysis Predictive Modeling Policy RStudio \nThis project looks at how healthcare algorithms can end up treating people unfairly, even when they are supposed to help improve care. I focused on a model that used past healthcare spending to predict patient needs, which can be a problem because spending does not always reflect how sick someone actually is. Using R, I built a simulation to recreate the bias in the model and then looked at fairness measures like statistical parity, equalized odds, and disparate impact to see how the model performed. My results showed that Black patients were more likely to be underrated by the system, which could lead to them getting less care than they need. Overall, the project was about showing why accuracy is not the only thing that matters when algorithms are used in healthcare.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
   }
 ]
