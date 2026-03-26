@@ -22,7 +22,7 @@ title: "About Me"   # ✏️ This becomes the page title shown in the browser ta
 
 <p style="text-align: center;">
 
-<img src="Headshot.jpg" width="400px" height="400px" style="object-fit: cover;
+<img src="Headshot.jpeg" width="400px" height="400px" style="object-fit: cover;
               object-position: 50% 32%;
               border: 3px solid #333;
               margin-bottom: 30px;"/>
